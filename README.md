@@ -2,9 +2,10 @@
 # Week1
 ****
 
-# Week2
-* **Linked-List**
- [介紹]
+# Week2 - Linked-List
+* **About Linked-List**
+
+
 
 
 # Week3
