@@ -11,9 +11,9 @@
 > **Linked-List**
 * 優點：
 
-   1. 新增/刪除資料較簡單，只需要調整O(1)個node的pointer，不需要像Array動到其他元素。
+   * 新增/刪除資料較簡單，只需要調整O(1)個node的pointer，不需要像Array動到其他元素。
    
-   2. Linked list的資料數量可以是動態的，不像Array會有resize(重新配置大小)的問題。
+   * Linked list的資料數量可以是動態的，不像Array會有resize(重新配置大小)的問題。
 
 ## **參考資料**
 * [維基百科 - Linked-list(連結串列)](https://zh.wikipedia.org/wiki/%E9%93%BE%E8%A1%A8)
