@@ -4,7 +4,7 @@
 
 # Week2
 * **Linked-List**
-**[介紹]**
+ [介紹]
 
 
 # Week3
