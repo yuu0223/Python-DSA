@@ -13,7 +13,13 @@
 
    * 新增/刪除資料較簡單，只需要調整O(1)個node的pointer，不需要像Array動到其他元素。
    
-   * Linked list的資料數量可以是動態的，不像Array會有resize(重新配置大小)的問題。
+   * Linked List的資料數量可以是動態的，不像Array會有resize(重新配置大小)的問題。
+   
+* 缺點：
+
+  * 由於Linked List沒有index，要搜索特定的node時，只能從頭開始搜索，而搜尋的時間複雜度為O(N)。
+  
+  * 需要額外的儲存空間來儲存pointer。
 
 ## **參考資料**
 * [維基百科 - Linked-list(連結串列)](https://zh.wikipedia.org/wiki/%E9%93%BE%E8%A1%A8)
