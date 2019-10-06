@@ -2,13 +2,13 @@
 # Week1
 ****
 
-# Week2 - Linked-List
+# Week2 : Linked-List
 * **About Linked-List**
 
 
 
 
-# Week3
+# Week3 : Stack、Queue
 
 
-# Week4
+# Week4 : Insertion Sort、Quick Sort
