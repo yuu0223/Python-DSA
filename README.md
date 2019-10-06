@@ -19,7 +19,21 @@
 
   * 由於Linked List沒有index，要搜索特定的node時，只能從頭開始搜索，而搜尋的時間複雜度為O(N)。
   
-  * 需要額外的儲存空間來儲存pointer。
+  * 需要額外的空間來儲存pointer。
+  
+> **Array**
+
+* 優點：
+
+  * 較Linked list為節省記憶體空間->因為Linked List還需要空間儲存pointer。
+  
+  * random access(隨機存取)->只要利用index即可在O(1)時間對Array的資料做存取。
+
+* 缺點：
+
+  * 新增/刪除資料較麻煩->若要新增/刪除第一個資料，則需要花O(N)時間把矩陣中所有元素往後/前移動。
+  
+  * 若資料量時常在改變，要時常調整矩陣大小(resize)，會花費O(N)時間在搬移資料(從舊矩陣移到新矩陣)。
 
 ## **參考資料**
 * [維基百科 - Linked-list(連結串列)](https://zh.wikipedia.org/wiki/%E9%93%BE%E8%A1%A8)
