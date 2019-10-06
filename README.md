@@ -1,9 +1,9 @@
 # 108-1 Data Structure and Algorithm(DSA)
 # Content
 * [Week1](#Week1)
-* [Week2](#Week2: Linked-List)
-* [Week3](#Week3: Stack、Queue)
-* [Week4](#Week4: Insertion Sort、Quick Sort)
+* [Week2](#Week2--Linked-List)
+* [Week3](#Week3--Stack、Queue)
+* [Week4](#Week4--Insertion Sort、Quick Sort)
 
 
 # Week1
