@@ -69,6 +69,12 @@
   * Push()：將資料加入Queue的最後方，成為新的back。(在Queue中新增資料稱為enqueue)
   
   * Pop()：將Queue最前方(最先加入)的資料刪除，並更新front。(在Queue中刪除資料稱為dequeue)
+  
+  * getFront()：回傳Queue的首項。
+  
+  * getBack()：回傳Queue的末項。
+  
+  * IsEmpty()：確認Queue中是否有資料。
 
 
 # Week4 : Insertion Sort & Quick Sort
