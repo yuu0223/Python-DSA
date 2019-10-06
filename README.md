@@ -2,8 +2,8 @@
 # Content
 * [Week1](#Week1)
 * [Week2](#Week2--Linked-List)
-* [Week3](#Week3--Stack、Queue)
-* [Week4](#Week4--Insertion Sort、Quick Sort)
+* [Week3](#Week3--Stack & Queue)
+* [Week4](#Week4--Insertion Sort & Quick Sort)
 
 
 # Week1
@@ -60,7 +60,7 @@
 * [維基百科 - Linked-list(連結串列)](https://zh.wikipedia.org/wiki/%E9%93%BE%E8%A1%A8)
 * [Linked List 簡介 By Chiu CC](http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html)
 
-# Week3 : Stack、Queue
+# Week3 : Stack & Queue
 ## **About Queue**
 * Queue是具有FIFO(First-In-First-Out)的資料結構，如同排隊買票的隊伍，先進入隊伍的人，就可以優先買到票，而後到的人，則需要等隊伍前面的人都買完票後才能買。
 
@@ -71,4 +71,4 @@
   * Pop()：將Queue最前方(最先加入)的資料刪除，並更新front。(在Queue中刪除資料稱為dequeue)
 
 
-# Week4 : Insertion Sort、Quick Sort
+# Week4 : Insertion Sort & Quick Sort
