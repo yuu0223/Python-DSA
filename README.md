@@ -10,7 +10,7 @@
 * 由於不必須按順序儲存，連結串列在插入的時候可以達到O(1)的複雜度，比另一種線性表順序表快得多，但是尋找一個節點或者存取特定編號的節點則需要O(n)的時間，而順序表相應的時間複雜度分別是O(logn)和O(1)。
 
 ## **參考資料**
-* 維基百科 - Linked-list(連結串列)(https://zh.wikipedia.org/wiki/%E9%93%BE%E8%A1%A8)
+* [維基百科 - Linked-list(連結串列)](https://zh.wikipedia.org/wiki/%E9%93%BE%E8%A1%A8)
 
 # Week3 : Stack、Queue
 
