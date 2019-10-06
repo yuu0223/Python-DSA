@@ -54,6 +54,14 @@
 * [Linked List 簡介 By Chiu CC](http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html)
 
 # Week3 : Stack、Queue
+## **About Queue**
+* Queue是具有FIFO(First-In-First-Out)的資料結構，如同排隊買票的隊伍，先進入隊伍的人，就可以優先買到票，而後到的人，則需要等隊伍前面的人都買完票後才能買。
+
+* 一般的Queue，會有以下幾項處理資料結構的功能：
+
+  * Push()：將資料加入Queue的最後方，成為新的back。(在Queue中新增資料稱為enqueue)
+  
+  * Pop()：將Queue最前方(最先加入)的資料刪除，並更新front。(在Queue中刪除資料稱為dequeue)
 
 
 # Week4 : Insertion Sort、Quick Sort
