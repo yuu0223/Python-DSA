@@ -10,6 +10,7 @@
 ## **Linked-List v.s. Array**
 * Linked-List
 > 優點：
+
     1. 新增/刪除資料較簡單，只需要調整O(1)個node的pointer，不需要像Array動到其他元素。
     2. Linked list的資料數量可以是動態的，不像Array會有resize(重新配置大小)的問題。
 
