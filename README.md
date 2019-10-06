@@ -11,6 +11,7 @@
 
 ## **參考資料**
 * [維基百科 - Linked-list(連結串列)](https://zh.wikipedia.org/wiki/%E9%93%BE%E8%A1%A8)
+* [Linked List 簡介 By Chiu CC](http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html)
 
 # Week3 : Stack、Queue
 
