@@ -74,7 +74,12 @@
   
   * getBack()：回傳Queue的末項。
   
-  * IsEmpty()：確認Queue中是否有資料。
+  * IsEmpty()：回傳Queue中是否有資料。
+  
+  * getSize()：回傳Queue的資料個數。
+  
+## **參考資料**
+* [Queue簡介 By Chiu CC](http://alrightchiu.github.io/SecondRound/queue-introjian-jie-bing-yi-linked-listshi-zuo.html#intro)
 
 
 # Week4 : Insertion Sort & Quick Sort
