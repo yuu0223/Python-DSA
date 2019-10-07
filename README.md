@@ -107,3 +107,4 @@
   
   2. 接著，將所有在pivot左邊及右邊的數視為兩個「新的數列」，分別重複上述步驟(選擇新的pivot、調整數列)，直到分不出「新的數列」為止。
   
+  ![quicksort](https://github.com/yuu0223/code-learning/blob/master/image/quick%20sort.png)
