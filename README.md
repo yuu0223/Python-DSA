@@ -95,6 +95,7 @@
   
 ## **參考資料**
 * [Queue簡介 By Chiu CC](http://alrightchiu.github.io/SecondRound/queue-introjian-jie-bing-yi-linked-listshi-zuo.html#intro)
+* [Stack簡介 By Chiu CC](http://alrightchiu.github.io/SecondRound/stack-introjian-jie.html)
 
 
 # Week4 : Insertion Sort & Quick Sort
