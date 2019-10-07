@@ -100,3 +100,10 @@
 
 
 # Week4 : Insertion Sort & Quick Sort
+## **About Quick Sort**
+* Quick Sort步驟：
+  
+  1. 在數列中任意挑選一個數(稱為pivot)，然後調整數列，比pivot小的數字都在pivot的左邊，而比pivot大的數字皆在pivot的右邊。
+  
+  2. 接著，將所有在pivot左邊及右邊的數視為兩個「新的數列」，分別重複上述步驟(選擇新的pivot、調整數列)，直到分不出「新的數列」為止。
+  
