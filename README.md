@@ -61,6 +61,21 @@
 * [Linked List 簡介 By Chiu CC](http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html)
 
 # Week3 : Stack & Queue
+## **About Stack**
+* Stack是具有LIFO(Last-In-First-Out)的資料結構，如同把書堆疊起來，最下面的書最先進入書堆中也最晚被取走，最上面的書最晚進入書堆中卻最早被取走。
+
+* 一般的Stack，會有以下幾項處理資料結構的功能：
+
+  * Push()：將資料加入Stack的最後方(top)。
+  
+  * Pop()：將最後進入(top)Stack的資料取出。
+  
+  * Top()：回傳Stack最頂端(top)的資料。
+  
+  * IsEmpty()：回傳Stack中是否有資料。
+  
+  * getSize()：回傳Stack的資料個數。
+  
 ## **About Queue**
 * Queue是具有FIFO(First-In-First-Out)的資料結構，如同排隊買票的隊伍，先進入隊伍的人，就可以優先買到票，而後到的人，則需要等隊伍前面的人都買完票後才能買。
 
