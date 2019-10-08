@@ -108,6 +108,8 @@
   2.由後往前和已排序數列中的每項元素做比較，直到遇到不大於自己的元素並插入此元素之後，若都沒有比自己小的數則插入在最前面。
   
   3.重複以上動作直到未排序數列全部處理完成。
+  
+   ![insertion sort](https://github.com/yuu0223/code-learning/blob/master/image/insertion%20sort.png)
 
 ## **About Quick Sort**
 > Quick Sort步驟：
