@@ -119,3 +119,10 @@
   2.接著，將所有在pivot左邊及右邊的數視為兩個「新的數列」，分別重複上述步驟(選擇新的pivot、調整數列)，直到分不出「新的數列」為止。
   
    ![quicksort](https://github.com/yuu0223/code-learning/blob/master/image/quick%20sort.png)
+   
+## **Reference**
+* 插入排序法(Insertion Sort)(https://emn178.pixnet.net/blog/post/93791164)
+
+* 維基百科-Quick Sort(https://zh.wikipedia.org/wiki/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F)
+
+   
