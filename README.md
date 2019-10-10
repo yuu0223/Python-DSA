@@ -1,4 +1,10 @@
 # 108-1 Data Structure and Algorithm(DSA)
+# About Me
+* Name：陳品伃
+* Birth：1999.05.27
+* Major：SCU Big Data Management
+* contact：pennychen1999@icloud.com
+
 # Content
 * [Week2：Linked-List](#Week2--Linked-List)
 * [Week3：Stack & Queue](#Week3--Stack--Queue)
