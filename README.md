@@ -9,7 +9,7 @@
 * [Week2：Linked-List](#Week2--Linked-List)
 * [Week3：Stack & Queue](#Week3--Stack--Queue)
   * [Leetcode - 155. Min Stack](https://github.com/yuu0223/code-learning/blob/master/Week3/155.%20MinStack.py)
-  
+  * [Leetcode - 232. Implement Queue](https://github.com/yuu0223/code-learning/blob/master/Week3/232.%09%20Implement%20Queue.py)
 * [Week4：Insertion sort & Quick sort](#week4--insertion-sort--quick-sort)
 
 # Week2 : Linked-List
