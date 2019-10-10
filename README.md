@@ -2,6 +2,7 @@
 # About Me
 * Name：陳品伃
 * Birth：1999.05.27
+* Constellation：Gemini
 * Major：SCU Big Data Management
 * contact：pennychen1999@icloud.com
 
