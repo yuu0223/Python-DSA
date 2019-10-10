@@ -8,10 +8,7 @@
 # Content
 * [Week2：Linked-List](#Week2--Linked-List)
 * [Week3：Stack & Queue](#Week3--Stack--Queue)
-
-  > Leetcode：
-  
-  * [155. Min Stack](https://github.com/yuu0223/code-learning/blob/master/Week3/155.%20MinStack.py)
+  * [Leetcode - 155. Min Stack](https://github.com/yuu0223/code-learning/blob/master/Week3/155.%20MinStack.py)
   
 * [Week4：Insertion sort & Quick sort](#week4--insertion-sort--quick-sort)
 
