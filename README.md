@@ -146,9 +146,11 @@
 
 * 如果要將陣列遞增排序的話就使用Max Heap；如果要遞減排序的話就使用Min Heap。
 
-> Max Heap步驟：
-
-
-
+> Max Heap：
+  1 . 父節點的值大於子節點
+  
+  2 . 樹根(root)一定是所有節點的最大值
+  
+  ![heapsortmax]()
 
 
