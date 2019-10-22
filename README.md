@@ -140,4 +140,12 @@
 * [維基百科-Quick Sort](https://zh.wikipedia.org/wiki/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F)
 
 # Week5：Heap Sort
-   
+## **About Heap Sort**
+
+* 堆積排序(Heap Sort)有法兩個大步驟，「最小堆積」(Min Heap)或「最大堆積」(Max Heap)。
+
+* 如果要將陣列遞增排序的話就使用Max Heap；如果要遞減排序的話就使用Min Heap。
+
+
+
+
