@@ -160,6 +160,6 @@
   
   2 . 樹根(root)一定是所有節點的最小值
   
-  ![minheapsort]()
+  ![minheapsort](https://github.com/yuu0223/code-learning/blob/master/image/minheapsort.png)
   
 
