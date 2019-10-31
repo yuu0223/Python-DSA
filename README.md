@@ -70,6 +70,8 @@
 * [維基百科 - Linked-list(連結串列)](https://zh.wikipedia.org/wiki/%E9%93%BE%E8%A1%A8)
 * [Linked List 簡介 By Chiu CC](http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html)
 
+* [返回目錄TOP](#content)
+
 # Week3 : Stack & Queue
 ## **About Stack**
 * Stack是具有LIFO(Last-In-First-Out)的資料結構，如同把書堆疊起來，最下面的書最先進入書堆中也最晚被取走，最上面的書最晚進入書堆中卻最早被取走。
