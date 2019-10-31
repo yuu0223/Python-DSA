@@ -17,6 +17,7 @@
   * Leetcode - 147. Insertion Sort List
   * [Leetcode - 645. Set Mismatch](https://github.com/yuu0223/code-learning/blob/master/Week4/645.%20Set%20Mismatch.py)
 * [**Week5：Heap Sort**](#Week5Heap-Sort)
+* [**Week6：Merge Sort**](#Week6Merge-Sort)
 
 # Week2 : Linked-List
 ## **About Linked-List**
@@ -162,4 +163,5 @@
   
   ![minheapsort](https://github.com/yuu0223/code-learning/blob/master/image/minheapsort.png)
   
+# Week6：Merge Sort
 
