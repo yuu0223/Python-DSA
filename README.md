@@ -70,7 +70,7 @@
 * [維基百科 - Linked-list(連結串列)](https://zh.wikipedia.org/wiki/%E9%93%BE%E8%A1%A8)
 * [Linked List 簡介 By Chiu CC](http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html)
 
---> [返回目錄TOP](#content)
+  -> [返回目錄TOP](#content)
 
 # Week3 : Stack & Queue
 ## **About Stack**
@@ -115,7 +115,8 @@
 * [Queue簡介 By Chiu CC](http://alrightchiu.github.io/SecondRound/queue-introjian-jie-bing-yi-linked-listshi-zuo.html#intro)
 * [Stack簡介 By Chiu CC](http://alrightchiu.github.io/SecondRound/stack-introjian-jie.html)
 
-
+  -> [返回目錄TOP](#content)
+  
 # Week4 : Insertion Sort & Quick Sort
 ## **About Insertion Sort**
 > Insertion Sort步驟：
@@ -165,5 +166,9 @@
   
   ![minheapsort](https://github.com/yuu0223/code-learning/blob/master/image/minheapsort.png)
   
+  -> [返回目錄TOP](#content)
+  
 # Week6：Merge Sort
 
+
+  -> [返回目錄TOP](#content)
