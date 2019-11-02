@@ -18,7 +18,7 @@
   * [Leetcode - 645. Set Mismatch](https://github.com/yuu0223/code-learning/blob/master/Week4/645.%20Set%20Mismatch.py)
 * [**Week5：Heap Sort**](#Week5Heap-Sort)
 * [**Week6：Merge Sort**](#Week6Merge-Sort)
-  * [HW2 - Heap Sort & Merge Sort](https://github.com/yuu0223/code-learning/tree/master/HW2-Heap%20Sort%20%26%20Merge%20Sort)
+  * [HW2 - Heap Sort & Merge Sort](https://github.com/yuu0223/code-learning/tree/master/HW2%20-%20Heap%20Sort%20%26%20Merge%20Sort)
 
 # Week2 : Linked-List
 ## **About Linked-List**
