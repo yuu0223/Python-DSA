@@ -36,9 +36,10 @@ class Solution():
         #判斷list1和list2內若還有值就繼續進行arrange，若無值則繼續下面的if-else
         
         if list1!=[]:
-            final_list.append(list1[0])
+            final_list.extend(list1)
         elif list2!=[]:
-            final_list.append(list2[0])
+            final_list.extend(list2)
         #將Max值直接新增至final_list的最後(因為已經無從比較)
+        #利用extend將list1或list2中的元素取出直接放入final_list
             
         return final_list
