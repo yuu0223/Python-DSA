@@ -13,11 +13,12 @@
   * [Leetcode - 155. Min Stack](https://github.com/yuu0223/code-learning/blob/master/Week3/155.%20MinStack.py)
   * [Leetcode - 232. Implement Queue](https://github.com/yuu0223/code-learning/blob/master/Week3/232.%09%20Implement%20Queue.py)
 * [**Week4：Insertion sort & Quick sort**](#week4--insertion-sort--quick-sort)
-  * [HW1 - Quick Sort](https://github.com/yuu0223/code-learning/tree/master/Week4/HW1%20-%20Quick%20Sort)
+  * [HW1 - Quick Sort](https://github.com/yuu0223/code-learning/tree/master/HW1%20-%20Quick%20Sort)
   * Leetcode - 147. Insertion Sort List
   * [Leetcode - 645. Set Mismatch](https://github.com/yuu0223/code-learning/blob/master/Week4/645.%20Set%20Mismatch.py)
 * [**Week5：Heap Sort**](#Week5Heap-Sort)
 * [**Week6：Merge Sort**](#Week6Merge-Sort)
+  * [HW2 - Heap Sort & Merge Sort]()
 
 # Week2 : Linked-List
 ## **About Linked-List**
