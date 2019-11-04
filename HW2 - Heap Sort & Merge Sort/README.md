@@ -33,9 +33,15 @@
   (6.) 反覆進行以上步驟即可排序完成
 
 ## **Heap Sort v.s Merge Sort**
-  * 時間複雜度：皆為nLogn
+  * 時間複雜度：皆為NLogN
   
   ![時間複雜度](https://github.com/yuu0223/code-learning/blob/master/image/%E6%99%82%E9%96%93%E8%A4%87%E9%9B%9C%E5%BA%A6.png)
+  
+  * 空間複雜度
+  
+    * Merge Sort：需要暫時的儲存空間來放每回合merge完的結果
+    
+    * Heap Sort：原地置換(In-Place)
 
 ## **參考資料**
 * [Comparison Sort:Merge Sort By Chiu CC](http://alrightchiu.github.io/SecondRound/comparison-sort-merge-sorthe-bing-pai-xu-fa.html)
