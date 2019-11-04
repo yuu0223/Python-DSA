@@ -39,9 +39,9 @@
   
   * 空間複雜度
   
-    * Merge Sort：需要暫時的儲存空間來放每回合merge完的結果
+    * Merge Sort：O(n)->需要暫時的儲存空間來放每回合merge完的結果
     
-    * Heap Sort：原地置換(In-Place)
+    * Heap Sort：O(1)->原地置換(In-Place)
 
 ## **參考資料**
 * [Comparison Sort:Merge Sort By Chiu CC](http://alrightchiu.github.io/SecondRound/comparison-sort-merge-sorthe-bing-pai-xu-fa.html)
