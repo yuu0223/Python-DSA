@@ -33,6 +33,8 @@
   (6.) 反覆進行以上步驟即可排序完成
 
 ## **Heap Sort v.s Merge Sort**
+  (1.) 時間複雜度
+  
 
 ## **參考資料**
 * [Comparison Sort:Merge Sort By Chiu CC](http://alrightchiu.github.io/SecondRound/comparison-sort-merge-sorthe-bing-pai-xu-fa.html)
