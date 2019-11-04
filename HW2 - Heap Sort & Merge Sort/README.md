@@ -37,3 +37,4 @@
 ## **參考資料**
 * [Comparison Sort:Merge Sort By Chiu CC](http://alrightchiu.github.io/SecondRound/comparison-sort-merge-sorthe-bing-pai-xu-fa.html)
 * [Sort 淺談 merge sort](https://blog.kuoe0.tw/posts/2013/03/06/sort-about-merge-sort/)
+* [堆積排序HeapSort](https://rust-algo.club/sorting/heapsort/)
