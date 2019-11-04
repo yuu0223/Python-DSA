@@ -8,7 +8,9 @@
   (1.) 將資料轉換為 heap 資料結構（遞增排序用 max-heap, 遞減排序選擇 min-heap）。
   
   (2.) 逐步取出最大／最小值，並與最後一個元素置換。具體步驟如下：
+       
        交換 heap 的 root 與最後一個 node，縮小 heap 的範圍（排序一筆資料，故 heap 長度 -1）。
+       
        更新剩下的資料，使其滿足 heap 的特性，稱為 heap ordering property。
        
   (3.) 重複前兩個步驟，直到 heap 中剩最後一個未排序的資料
