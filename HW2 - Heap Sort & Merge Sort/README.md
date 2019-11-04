@@ -33,7 +33,7 @@
   (6.) 反覆進行以上步驟即可排序完成
 
 ## **Heap Sort v.s Merge Sort**
-  * 時間複雜度
+  * 時間複雜度：皆為nLogn
   
   ![時間複雜度](https://github.com/yuu0223/code-learning/blob/master/image/%E6%99%82%E9%96%93%E8%A4%87%E9%9B%9C%E5%BA%A6.png)
 
