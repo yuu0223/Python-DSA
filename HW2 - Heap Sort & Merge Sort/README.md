@@ -43,6 +43,29 @@
     
     * Heap Sort：O(1)->原地置換(In-Place)
 
+  * 穩定性
+    
+    * Merge Sort：穩定(stable)
+    
+    * Heap Sort：不穩定(unstable)
+    
+    * 穩定排序法(stable sorting)，如果鍵值相同之資料，在排序後相對位置與排序前相同時，稱穩定排序。
+
+      > 例如
+
+      ** Before sorting：3,5,19,1,3*,10
+
+      ** After sorting：1,3,3＊,5,10,19  (因為兩個3, 3＊的相對位置在排序前與後皆相同。)
+
+     * 不穩定排序法(unstable sorting)，如果鍵值相同之資料，在排序後相對位置與排序前不相同時，稱不穩定排序。
+
+      > 例如
+
+       ** Before sorting：3,5,19,1,3＊,10
+
+       ** After sorting：1,3＊,3,5,10,19  (因為兩個3, 3*的相對位置在排序前與後不相同。)
+    
+  
 ## **參考資料**
 * [Comparison Sort:Merge Sort By Chiu CC](http://alrightchiu.github.io/SecondRound/comparison-sort-merge-sorthe-bing-pai-xu-fa.html)
 * [Sort 淺談 merge sort](https://blog.kuoe0.tw/posts/2013/03/06/sort-about-merge-sort/)
