@@ -9,9 +9,9 @@
   
   (2.) 逐步取出最大／最小值，並與最後一個元素置換。具體步驟如下：
        
-     (2-1.) 交換 heap 的 root 與最後一個 node，縮小 heap 的範圍（排序一筆資料，故 heap 長度 -1）。
+       (2-1.) 交換 heap 的 root 與最後一個 node，縮小 heap 的範圍（排序一筆資料，故 heap 長度 -1）。
        
-     (2-2.) 更新剩下的資料，使其滿足 heap 的特性，稱為 heap ordering property。
+       (2-2.) 更新剩下的資料，使其滿足 heap 的特性，稱為 heap ordering property。
        
   (3.) 重複前兩個步驟，直到 heap 中剩最後一個未排序的資料
 
