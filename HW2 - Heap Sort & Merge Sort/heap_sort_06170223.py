@@ -23,15 +23,14 @@ class Solution(object):
             for a in range((l_len//2)-1, -1, -1):
                 heapify(list, l_len, a)
                 #由下往上3個3個做heapify
+                #假如有7項，那就會從第2項開始heapify
 
             for a in range(l_len-1, -1, -1):
                 sure = list[0]
                 list[0] = list[a]
                 list[a] = sure
                 heapify(list, a, 0)
-                if a ==1:
-                    break
-            
-            
+                #若a=1的時候(只剩一個元素)就會停止
+       
             return list   
     
