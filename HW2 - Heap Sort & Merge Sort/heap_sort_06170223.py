@@ -2,6 +2,7 @@ class Solution(object):
     def heapsort(self, list):
 
             def heapify(list, len, a):
+                #重複步驟後，heapify只會做最前面三項(0,1,2)的排序
                 largest = a
                 left = 2*a+1
                 right = 2*a+2
