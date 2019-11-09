@@ -119,3 +119,5 @@ class MyLinkedList:
 # obj.addAtTail(val)
 # obj.addAtIndex(index,val)
 # obj.deleteAtIndex(index)
+
+#Ref. https://www.itread01.com/content/1544792077.html
