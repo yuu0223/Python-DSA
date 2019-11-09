@@ -8,7 +8,7 @@
 
 # Content
 * [**Week2：Linked-List**](https://github.com/yuu0223/code-learning/tree/master/Week2%20-%20Linked%20List)
-  * Leetcode - 707. Design Linked List
+  * [Leetcode - 707. Design Linked List](https://github.com/yuu0223/code-learning/blob/master/Week2%20-%20Linked%20List/707.%20Design%20Linked%20List.py)
 * [**Week3：Stack & Queue**](https://github.com/yuu0223/code-learning/tree/master/Week3%20-%20Stack%20%26%20Queue)
   * [Leetcode - 155. Min Stack](https://github.com/yuu0223/code-learning/blob/master/Week3%20-%20Stack%20%26%20Queue/155.%20MinStack.py)
   * [Leetcode - 232. Implement Queue](https://github.com/yuu0223/code-learning/blob/master/Week3%20-%20Stack%20%26%20Queue/232.%09%20Implement%20Queue.py)
