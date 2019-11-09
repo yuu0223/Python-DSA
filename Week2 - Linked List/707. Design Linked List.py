@@ -1,3 +1,4 @@
+#利用list方法來寫的linked list
 class MyLinkedList:
 
     def __init__(self):
@@ -17,7 +18,6 @@ class MyLinkedList:
     #將值加在linked list的最前面
         
         self.linked_list.insert(0,val)
-        
         
         
 
