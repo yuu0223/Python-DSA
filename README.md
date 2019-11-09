@@ -16,8 +16,8 @@
   * [HW1 - Quick Sort](https://github.com/yuu0223/code-learning/tree/master/HW1%20-%20Quick%20Sort)
   * Leetcode - 147. Insertion Sort List
   * [Leetcode - 645. Set Mismatch](https://github.com/yuu0223/code-learning/blob/master/Week4/645.%20Set%20Mismatch.py)
-* [**Week5：Heap Sort**](#Week5Heap-Sort)
-* [**Week6：Merge Sort**](#Week6Merge-Sort)
+* [**Week6：Heap Sort**](#Week6Heap-Sort)
+* [**Week7：Merge Sort**](#Week7Merge-Sort)
   * [HW2 - Heap Sort & Merge Sort](https://github.com/yuu0223/code-learning/tree/master/HW2%20-%20Heap%20Sort%20%26%20Merge%20Sort)
 
 # Week2 : Linked-List
@@ -146,7 +146,7 @@
 
 [**返回目錄TOP**](#content)
 
-# Week5：Heap Sort
+# Week6：Heap Sort
 ## **About Heap Sort**
 
 * 堆積排序(Heap Sort)有法兩個大步驟，「最小堆積」(Min Heap)或「最大堆積」(Max Heap)。
@@ -171,7 +171,7 @@
   
 [**返回目錄TOP**](#content)
   
-# Week6：Merge Sort
+# Week7：Merge Sort
 
 
 [**返回目錄TOP**](#content)
