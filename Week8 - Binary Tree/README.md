@@ -39,5 +39,5 @@
      
 ## Refernce
 
-* ![Binary Tree: Intro by Chiu CC](http://alrightchiu.github.io/SecondRound/binary-tree-introjian-jie.html)
-* ![【演算】樹 - Tree](http://program-lover.blogspot.com/2008/12/tree.html)
+* [Binary Tree: Intro by Chiu CC](http://alrightchiu.github.io/SecondRound/binary-tree-introjian-jie.html)
+* [【演算】樹 - Tree](http://program-lover.blogspot.com/2008/12/tree.html)
