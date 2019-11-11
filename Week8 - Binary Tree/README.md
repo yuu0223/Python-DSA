@@ -17,7 +17,7 @@
     
     (3.) 若一棵Full Binary Tree的leaf node之level為n，整棵樹共有(2**n)−1個node。(Ex. level=4(共4層)的樹就有15個node)
     
-   ![full]()
+   ![full](https://github.com/yuu0223/code-learning/blob/master/image/full.png)
     
 > **Complete Binary Tree**
 
@@ -25,7 +25,7 @@
     
     * 樹共有10個node，且這十個node正好填滿Full Binary Tree的前十個位置。
     
-   ![complete_tree]()
+   ![complete_tree](https://github.com/yuu0223/code-learning/blob/master/image/complete_tree.png)
     
 > **節點的level(階層)、height(高度)、depth(深度)：**
      
@@ -36,3 +36,8 @@
      * depth(深度)：節點至根節點的距離
 
      Ex. 上圖C節點 -> level=2、height=2、depth=1
+     
+## Refernce
+
+* ![Binary Tree: Intro by Chiu CC](http://alrightchiu.github.io/SecondRound/binary-tree-introjian-jie.html)
+* ![【演算】樹 - Tree](http://program-lover.blogspot.com/2008/12/tree.html)
