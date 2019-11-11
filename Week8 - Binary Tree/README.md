@@ -25,4 +25,4 @@
      
      * depth(深度)：節點至根節點的距離
 
-     E
+     Ex. 上圖C節點 -> level=2、height=2、depth=1
