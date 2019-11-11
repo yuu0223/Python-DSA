@@ -21,4 +21,4 @@
 * [**Week7：Merge Sort**](https://github.com/yuu0223/code-learning/tree/master/Week7%20-%20Merge%20Sort)
   * [HW2 - Heap Sort & Merge Sort](https://github.com/yuu0223/code-learning/tree/master/HW2%20-%20Heap%20Sort%20%26%20Merge%20Sort)
 * [**Week8：Binary Tree**](https://github.com/yuu0223/code-learning/tree/master/Week8%20-%20Binary%20Tree)
-* [**Week9：Binary Search Tree**]()
+* [**Week9：Binary Search Tree**](https://github.com/yuu0223/code-learning/tree/master/Week9%20-%20Binary%20Search%20Tree)
