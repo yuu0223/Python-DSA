@@ -17,6 +17,16 @@
     
     (3.) 若一棵Full Binary Tree的leaf node之level為n，整棵樹共有(2**n)−1個node。(Ex. level=4(共4層)的樹就有15個node)
     
+   ![full]()
+    
+> **Complete Binary Tree**
+
+    * 若一棵樹的node按照Full Binary Tree的次序排列(由上至下，由左至右)，則稱此樹為Complete Binary Tree。
+    
+    * 樹共有10個node，且這十個node正好填滿Full Binary Tree的前十個位置。
+    
+   ![complete_tree]()
+    
 > **節點的level(階層)、height(高度)、depth(深度)：**
      
      * level(階層)：代表節點間的世代關係
