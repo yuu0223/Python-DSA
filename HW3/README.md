@@ -3,7 +3,7 @@
 * Insert - 新增
   * 在最下面root的左子項或右子項新增一個新的value
   
-  * Insert步驟：
+        Insert步驟：
   
         (1.) 判斷是否為空樹，如果是，則將value當成根節點插入。
         
