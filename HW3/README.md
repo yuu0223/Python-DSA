@@ -30,6 +30,14 @@
 
 * **Modify - 修改**：找到欲替換的節點，將新的value插入
 
+      Modify步驟：
+      
+      (1.) 判斷是否為空樹或Binary tree中是否有target，如果是空樹或沒有target，則不做任何動作
+      
+      (2.) 先搜尋在樹中尋找target，若target < root則向左子樹搜尋，若target > root則向右子樹搜尋
+      
+      (3.) 找到target時，將新值插入取代target
+
 ![bst_modify](https://github.com/yuu0223/code-learning/blob/master/image/bst_modify.jpg)
 
 * **Search - 查詢**：查詢Binary tree中有沒有我們要的值，並回傳該節點及他的兩個子項。
