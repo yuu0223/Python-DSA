@@ -4,7 +4,7 @@
   
       Insert步驟：
   
-      (1.) 判斷是否為空樹，如果是，則將value當成根節點插入。
+      (1.) 判斷是否為空樹，如果是，則將value當成根節點插入
         
       (2.) 若不是空樹，則判斷是 > root.val或 < root.val
         
@@ -15,6 +15,16 @@
 ![bst_insert](https://github.com/yuu0223/code-learning/blob/master/image/bst_insert.jpg)
 
 * Delete - 刪除：在Binary tree中找到符合我們要刪除的value並刪除。
+
+      Delete步驟：
+      
+      (1.) 判斷是否為空樹，如果是，則不做任何動作
+      
+      (2.) 若不是空樹，則先判斷是否有左子樹或右子樹
+      
+      (3.) 若有左子樹and沒有右子樹，則將root.left.val直接取代root.val
+      
+      (4.) 若有右子樹，則將key下面的所有root.right往上移，取代他們的parent
 
 ![bst_del](https://github.com/yuu0223/code-learning/blob/master/image/bst_delete.jpg)
 
