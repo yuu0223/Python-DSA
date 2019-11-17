@@ -30,7 +30,7 @@
 
 * **Modify - 修改**：找到欲替換的節點，將新的value插入
 
-![bst_modify]()
+![bst_modify](https://github.com/yuu0223/code-learning/blob/master/image/bst_modify.jpg)
 
 * **Search - 查詢**：查詢Binary tree中有沒有我們要的值，並回傳該節點及他的兩個子項。
       
