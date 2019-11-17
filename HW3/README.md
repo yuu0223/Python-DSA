@@ -28,7 +28,9 @@
 
 ![bst_del](https://github.com/yuu0223/code-learning/blob/master/image/bst_delete.jpg)
 
-* **修改**
+* **Modify - 修改**：找到欲替換的節點，將新的value插入
+
+![bst_modify]()
 
 * **Search - 查詢**：查詢Binary tree中有沒有我們要的值，並回傳該節點及他的兩個子項。
       
