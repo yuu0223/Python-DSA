@@ -1,6 +1,6 @@
 # **Binary Search Tree**
 ## Binary Search Tree的功能
-* Insert - 新增：在最下面root的左子項或右子項新增一個新的value
+* Insert - 新增：在Binary tree最下面root的左子項或右子項新增一個新的value。
   
       Insert步驟：
   
@@ -12,7 +12,7 @@
         
       (4.) 重複第三個步驟，直到找到root.left或root.right為None，並新增至root.left或root.right
 
-* Delete - 刪除
+* Delete - 刪除：在Binary tree中找到符合我們要刪除的value並刪除。
 
 * 修改
 
