@@ -30,7 +30,13 @@
 
 * **修改**
 
-* **Search - 查詢**：
+* **Search - 查詢**：查詢Binary tree中有沒有我們要的值，並回傳該節點及他的兩個子項。
+      
+      Search步驟：
+      
+      (1.) 判斷是否為空樹，如果是，則搜尋失敗
+      
+      (2.) 若key值 < root則向左子樹搜尋
 
 ![bst_search](https://github.com/yuu0223/code-learning/blob/master/image/bst_search.jpg)
 
