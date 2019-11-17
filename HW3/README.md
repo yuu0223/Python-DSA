@@ -34,9 +34,11 @@
       
       Search步驟：
       
-      (1.) 判斷是否為空樹，如果是，則搜尋失敗
+      (1.) 判斷是否為空樹或是key值有沒有存在Binary tree中，如果是空樹或索引不到key值，則搜尋失敗
       
-      (2.) 若key值 < root則向左子樹搜尋
+      (2.) 若key值 < root則向左子樹搜尋，若key值 > root則向右子樹搜尋
+      
+      (3.) 找到key值時，則回傳key和他的兩個子項(key.left, key.right)
 
 ![bst_search](https://github.com/yuu0223/code-learning/blob/master/image/bst_search.jpg)
 
