@@ -1,6 +1,6 @@
 # **Binary Search Tree**
 ## Binary Search Tree的功能
-* Insert - 新增：在Binary tree最下面root的左子項或右子項新增一個新的value。
+* **Insert - 新增**：在Binary tree最下面root的左子項或右子項新增一個新的value。
   
       Insert步驟：
   
@@ -14,7 +14,7 @@
 
 ![bst_insert](https://github.com/yuu0223/code-learning/blob/master/image/bst_insert.jpg)
 
-* Delete - 刪除：在Binary tree中找到符合我們要刪除的value並刪除。
+* **Delete - 刪除**：在Binary tree中找到符合我們要刪除的value並刪除。
 
       Delete步驟：
       
@@ -28,8 +28,8 @@
 
 ![bst_del](https://github.com/yuu0223/code-learning/blob/master/image/bst_delete.jpg)
 
-* 修改
+* **修改**
 
-* Search - 查詢
+* **Search - 查詢**
 
 ![bst_search](https://github.com/yuu0223/code-learning/blob/master/image/bst_search.jpg)
