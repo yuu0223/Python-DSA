@@ -30,6 +30,15 @@
 
 * **修改**
 
-* **Search - 查詢**
+* **Search - 查詢**：
 
 ![bst_search](https://github.com/yuu0223/code-learning/blob/master/image/bst_search.jpg)
+
+
+## Reference
+
+* [維基百科 - 二元搜尋樹](https://zh.wikipedia.org/wiki/%E4%BA%8C%E5%85%83%E6%90%9C%E5%B0%8B%E6%A8%B9)
+
+* [資料結構 - 二元搜索樹](https://emn178.pixnet.net/blog/post/94574434)
+
+* [Binary search tree(Intro) By Chiu CC ](http://alrightchiu.github.io/SecondRound/binary-search-tree-introjian-jie.html#insert)
