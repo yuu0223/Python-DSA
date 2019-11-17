@@ -12,9 +12,14 @@
         
       (4.) 重複第三個步驟，直到找到root.left或root.right為None，並新增至root.left或root.right
 
+![bst_insert](https://github.com/yuu0223/code-learning/blob/master/image/bst_insert.jpg)
+
 * Delete - 刪除：在Binary tree中找到符合我們要刪除的value並刪除。
+
+![bst_del](https://github.com/yuu0223/code-learning/blob/master/image/bst_delete.jpg)
 
 * 修改
 
 * Search - 查詢
 
+![bst_search](https://github.com/yuu0223/code-learning/blob/master/image/bst_search.jpg)
