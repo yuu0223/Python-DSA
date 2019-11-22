@@ -12,7 +12,7 @@
         
       (4.) 重複第三個步驟，直到找到root.left或root.right為None，並新增至root.left或root.right
 
-![bst_insert](https://github.com/yuu0223/code-learning/blob/master/image/bst_insert.jpg)
+![bst_insert](https://github.com/yuu0223/code-learning/blob/master/image/insert_p.jpg)
 
 * **Delete - 刪除**：在Binary tree中找到符合我們要刪除的value並刪除。
 
@@ -26,7 +26,7 @@
       
       (4.) 若有右子樹，則將key下面的所有root.right往上移，取代他們的parent
 
-![bst_del](https://github.com/yuu0223/code-learning/blob/master/image/bst_delete.jpg)
+![bst_del](https://github.com/yuu0223/code-learning/blob/master/image/delete_p.jpg)
 
 * **Modify - 修改**：找到欲替換的節點，將新的value插入
 
@@ -38,7 +38,7 @@
       
       (3.) 找到target時，將新值插入取代target
 
-![bst_modify](https://github.com/yuu0223/code-learning/blob/master/image/bst_modify.jpg)
+![bst_modify](https://github.com/yuu0223/code-learning/blob/master/image/modify_p.jpg)
 
 * **Search - 查詢**：查詢Binary tree中有沒有我們要的值，並回傳該節點及他的兩個子項。
       
@@ -50,7 +50,7 @@
       
       (3.) 找到key值時，則回傳key和他的兩個子項(key.left, key.right)
 
-![bst_search](https://github.com/yuu0223/code-learning/blob/master/image/bst_search.jpg)
+![bst_search](https://github.com/yuu0223/code-learning/blob/master/image/search_p.jpg)
 
 
 ## Reference
