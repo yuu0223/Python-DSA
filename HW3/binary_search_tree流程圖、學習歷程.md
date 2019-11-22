@@ -142,3 +142,37 @@ def search(self, root, target):
 ```
 這樣，search就完成了。
 
+# modify
+
+同樣地，modify也是分成兩個部分，第一部分：
+
+若符合target = root.val，則將新的節點(treenode(new_val))取代舊的root，modify就完成了。
+```Python
+ def modify(self, root, target, new_val): 
+        
+        r = root
+        
+        if target == root.val:
+            newnode = TreeNode(new_val)
+            r.val = newnode.val
+```
+
+第二部分：
+
+(1.) 若target < root.val，則將root.left取代root，然後再做一次modify。
+
+(2.) 若target > root.val，則將root.right取代root，然後再做一次modify。
+```Python
+elif target < root.val:
+        r = r.left
+        self.modify(r, target, new_val)
+            
+elif target > root.val:
+        r = r.right
+        self.modify(r, target, new_val)
+```
+最後，modify就完成了！
+
+#Reference
+
+
