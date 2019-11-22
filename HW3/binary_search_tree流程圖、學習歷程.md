@@ -4,19 +4,19 @@
 
 ## insert
 
-![insert_p]()
+![insert](https://github.com/yuu0223/code-learning/blob/master/image/bst_insert.jpg)
 
 ## delete
 
-![delete_p]()
+![delete](https://github.com/yuu0223/code-learning/blob/master/image/bst_delete.jpg)
 
 ## search
 
-![search_p]()
+![search](https://github.com/yuu0223/code-learning/blob/master/image/bst_search.jpg)
 
 ## modify
 
-![modify_p]()
+![modify](https://github.com/yuu0223/code-learning/blob/master/image/bst_modify.jpg)
 
 # BST程式碼
 
