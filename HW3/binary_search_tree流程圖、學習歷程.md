@@ -41,8 +41,11 @@ def insert(self, root, val):
 
 若比root小則進入左子樹的if-else中，比root大則進入右子樹的if-else。
 
-第二層if-else中，右(左)節點為none，則新增於右(左)邊的子節點。若右(左)子節點有值，則繼續尋找root.right(root.left)下面為none的節點。
+第二層if-else中：
 
+(1.) 右節點為none，則新增於右邊的子節點。若右子節點有值，則繼續尋找root.right下面為none的節點。
+
+(2.) 左節點為none，則新增於左邊的子節點。若左子節點有值，則繼續尋找root.left下面為none的節點。
 ```Python
 else:
     if val > root.val: #若值大於root的值
