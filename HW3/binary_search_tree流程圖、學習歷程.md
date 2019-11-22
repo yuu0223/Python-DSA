@@ -29,8 +29,7 @@
 當root的值=None時，則直接新增val在這個位置。
 
 ```Python
-class Solution(object):
-    def insert(self, root, val):
+def insert(self, root, val):
         if root.val == None: #若節點為none則直接新增節點的值
             newnode = TreeNode(val)
             self.root = newnode
@@ -113,6 +112,33 @@ root.right = self.delete(root.right, target)
         
    return root
 ```
+delete就成功了！
 
+# search
+search也是分為兩個部分來進行，第一部分：
 
+如果找到符合target = root.val時，就搜尋成功了。
+
+```Python
+def search(self, root, target):
+        if root:
+            if root.val == target: #找到值時回傳root
+                return root
+```
+
+第二部分：
+
+(1.) 當target比root.val小，則往左子樹搜尋，並再search一次。
+
+(2.) 當target比root.val大，則往右子樹搜尋，並再search一次。
+```Python
+ elif target < root.val: #當target比root.val小，則往左子樹搜尋
+    root = root.left
+    return self.search(root, target)
+                
+ elif target > root.val: #當target比root.val大，則往右子樹搜尋
+    root = root.right
+    return self.search(root, target)
+```
+這樣，search就完成了。
 
