@@ -24,7 +24,7 @@
 
 ## insert
 
-將insert程式碼分成三個部分，第一個部分：
+將insert程式碼分成兩個部分，第一個部分：
 
 當root的值=None時，則直接新增val在這個位置。
 
@@ -67,8 +67,15 @@ else:
 如此一來，insert就完成了。
 
 # delete
+delete的話，也是先分成兩個部分，第一部分：
 
+先判斷是否為空樹，如果不是空樹，則進入第二層if-else。
 
+進入第二層後，
+
+(1.) root.val等於target且root.right沒有值，則將root.left上移至root的位置，就delete原始的root了。
+
+(2.) root.val等於target且root.right有值，則進入while迴圈找出target的右子樹中最小的值(最左邊)，並將r.left上移至root的位置，就delete原始的root了。
 
 ```Python
 def delete(self, root, target):
@@ -79,5 +86,33 @@ def delete(self, root, target):
                 if not root.right: #如果root沒有右子項，則直接將左子項移上來
                     move = root.left
                     return move
+                
+                else: #root有右子項，但左子項可有可無
+                    r = root.right
+                    
+                    while r.left: #將欲刪除的節點下面右節點的左子項移上來至root(右邊最左邊的節點為比root大中最小的值)
+                        r = r.left
+                        
+                    #交換位置
+                    move = root.val
+                    root.val = r.val
+                    r.val = move
 ```
+
+第二部分：
+
+然後分成兩邊(左子樹、右子樹)重複呼叫delete，分頭進行搜索target然後delete。
+
+```Python
+root.left = self.delete(root.left, target) 
+root.right = self.delete(root.right, target)
+#分左右邊搜尋key值，若找到則進入if root.val == key
+            
+   else:
+        return None
+        
+   return root
+```
+
+
 
