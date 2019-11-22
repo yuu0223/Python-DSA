@@ -78,15 +78,15 @@ class Solution(object):
         
         r = root
         
-        if target == root.val: #如果target = root.val則直接將new_val取代原本的值
+        if target == root.val:
             newnode = TreeNode(new_val)
             r.val = newnode.val
         
-        elif target < root.val: #若target比root.val小則往左子樹找，再進行一次modify
+        elif target < root.val:
             r = r.left
             self.modify(r, target, new_val)
             
-        elif target > root.val: #若target比root.val大則往右子樹找，再進行一次modify
+        elif target > root.val:
             r = r.right
             self.modify(r, target, new_val)
         
@@ -94,7 +94,7 @@ class Solution(object):
             return
         
         return root
-
+    
 #Ref1: 維基百科 - 二元搜尋樹 https://zh.wikipedia.org/wiki/%E4%BA%8C%E5%85%83%E6%90%9C%E5%B0%8B%E6%A8%B9
 #Ref2: 資料結構 https://medium.com/@Kadai/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E5%A4%A7%E4%BE%BF%E7%95%B6-binary-search-tree-3c40be3204e
 
