@@ -1,3 +1,5 @@
+# BST流程圖
+
 首先，為了瞭解Binary Search Tree的步驟，所以先畫了insert、delete、search、modify的流程圖：
 
 ## insert
@@ -15,6 +17,8 @@
 ## modify
 
 ![modify_p]()
+
+# BST程式碼
 
 再來，概念大概了解完開始試著寫寫看程式碼：
 
