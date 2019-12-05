@@ -1,16 +1,15 @@
 from Cryptodome.Hash import MD5 as md5
 
 class ListNode:
-    def __init__(self, value):
-        self.val = value
-        self.next = None
+        def __init__(self, value):
+            self.val = value
+            self.next = None
             
 class MyHashSet:
-     
+    
     def __init__(self, capacity):
         self.capacity = capacity
         self.data = [None] * capacity
-        print(self.data)
         
         
     def md5(self, val): #將輸入的值加密
@@ -24,29 +23,28 @@ class MyHashSet:
         
         ascii_word = []
         total_sum = 0
+        
         for i in val:
             trans = ord(i)
             ascii_word.append(trans)
-        print(ascii_word)
        
         b =len(ascii_word)-1
+        
         for a in ascii_word:
             sum_word = a*(10**b)
             total_sum = total_sum+sum_word
             b=b-1
         
-        print(total_sum)
         return total_sum
         
     
     def mod(self, val): #將輸入之值取mod，並放進哪個位置
         
         number = self.ascii_sum(val)
-
         mod = number%self.capacity
-        print(mod)
         
         return mod
+        
         
     def add(self, key):
         
@@ -60,11 +58,11 @@ class MyHashSet:
             
         else:
             self.data[mod_key][key] = md5_key
-            
-        return self.data
+    
     
     
     def remove(self, key):
+        
         mod_key = self.mod(key)
         md5_key = self.md5(key)
         
@@ -74,7 +72,7 @@ class MyHashSet:
         else:
             self.data[mod_key].pop(key)
             
-        return self.data
+        
     
     
     def contains(self, key):
