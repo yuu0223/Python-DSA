@@ -1,9 +1,9 @@
 from Cryptodome.Hash import MD5 as md5
 
 class ListNode:
-        def __init__(self, value):
-            self.val = value
-            self.next = None
+    def __init__(self, value):
+        self.val = value
+        self.next = None
             
 class MyHashSet:
     
