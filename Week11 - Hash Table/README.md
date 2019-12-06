@@ -1,8 +1,7 @@
 # Week11 - Hash Table
 ## About Hash(雜湊)
 
-* 電腦科學中一種對資料的處理方法，通過某種特定的函式/演算法（稱為雜湊函式/演算法）將要檢索的項與用來檢索的索引(稱為雜湊or雜湊值)關聯起來，生成一種便於搜尋的資料結構(稱為雜湊表)。
-
+* 一種對資料的處理方法，通過某種特定的函式/演算法，將要檢索的value與用來檢索的key(稱為雜湊or雜湊值)關聯起來，形成一個便於搜尋的資料結構(稱為雜湊表)。
 
 * Hash並不是加密，是他的特性很適合拿來做加密的運算。
 
@@ -16,7 +15,11 @@
       
 ## About Hash Table(雜湊表)
 
+* 用Hash Function運算出來的雜湊值，根據key來儲存在Hash Table中。而存放這些記錄的數組就稱為Hash Table(雜湊表)。
+
+* 每一個Hash Table裡都有n個bucket，而每個bucket裡也有n個slot。(n自行定義)
 
 ## Reference
 * [資料結構-雜湊 (Hash)](https://ithelp.ithome.com.tw/articles/10208884)
 * [Hash Table:Intro(簡介)](http://alrightchiu.github.io/SecondRound/hash-tableintrojian-jie.html#ht)
+* [維基百科-Hash](https://zh.wikipedia.org/wiki/%E6%95%A3%E5%88%97)
