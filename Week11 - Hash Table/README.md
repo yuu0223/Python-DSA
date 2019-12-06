@@ -19,6 +19,8 @@
 
 * 每一個Hash Table裡都有n個bucket，而每個bucket裡也有n個slot。(n自行定義)
 
+![hash_table](https://github.com/yuu0223/code-learning/blob/master/image/hash_table.jpg)
+
 ## Reference
 * [資料結構-雜湊 (Hash)](https://ithelp.ithome.com.tw/articles/10208884)
 * [Hash Table:Intro(簡介)](http://alrightchiu.github.io/SecondRound/hash-tableintrojian-jie.html#ht)
