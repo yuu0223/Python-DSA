@@ -9,7 +9,6 @@ class Graph:
         
     def addEdge(self,u,v): 
         self.graph[u].append(v) 
-        return self.graph
 
     
     def BFS(self, s):
