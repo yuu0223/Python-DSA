@@ -74,3 +74,14 @@ class Graph:
             s = node #令下一個s為node
             
         return sure
+
+      
+#Reference - BFS:
+#https://alrightchiu.github.io/SecondRound/graph-breadth-first-searchbfsguang-du-you-xian-sou-xun.html
+#http://nthucad.cs.nthu.edu.tw/~yyliu/personal/nou/04ds/bfs.html
+#https://docs.google.com/presentation/d/e/2PACX-1vTma_vOZyE70O23KWw4I4Y78aAaT5fJSTq7Mae912kCwka_u5ZMWPoo14D86-x-57kZPbb6hAGktSW4/pub?start=false&loop=false&delayms=3000&slide=id.g7aa022d8bc_2_0
+
+#Reference - DFS:
+#https://en.wikipedia.org/wiki/Depth-first_search
+#http://nthucad.cs.nthu.edu.tw/~yyliu/personal/nou/04ds/dfs.html
+#https://alrightchiu.github.io/SecondRound/graph-depth-first-searchdfsshen-du-you-xian-sou-xun.html
