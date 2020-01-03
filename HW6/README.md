@@ -1,11 +1,9 @@
-# Dijkstra Algorithm (戴克斯特拉演算法) & Kruskal Algorithm (克魯斯克爾演算法)
+# Dijkstra Algorithm & Kruskal Algorithm
 
 ## About Dijkstra
 
 * Dijkstra使用了廣度優先搜尋(BFS)解決賦權有向圖的單源最短路徑問題(shortest path)，主要是利用兩點間的權重路徑，找出各點距離起點的最短路徑。
 
-* Step 步驟：
-       
 
 ## About Kruskal
 
@@ -13,11 +11,11 @@
 
 * Step 步驟：
 
-       1. 將原圖中所有的路徑權重按權值從小到大排序
+      1. 將原圖中所有的路徑權重按權值從小到大排序
               
-       2. 從權值最小的路徑開始，依路徑把兩個節點連結起來
+      2. 從權值最小的路徑開始，依路徑把兩個節點連結起來
        
-       3. 重複步驟2，直至所有的節點都連過了
+      3. 重複步驟2，直至所有的節點都連過了
        
 ## 時間複雜度
 
