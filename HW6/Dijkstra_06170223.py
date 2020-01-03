@@ -8,6 +8,9 @@ class Graph():
         self.graph_matrix = [[0 for column in range(vertices)]  
                     for row in range(vertices)] 
       
+    def addEdge(self,u,v,w):  
+
+
       
     def Dijkstra(self, s): 
         
@@ -54,4 +57,11 @@ class Graph():
             
         return ans
        
-       
+      
+    def Kruskal(self):
+     
+     
+     
+#Reference
+#https://docs.google.com/presentation/d/e/2PACX-1vTgHO5AkHJS6iN6bnnBMMdHv6E4rabnrC0KwyTRfjad8Ab3IQjbnGvZuQOjDC9t7nKqeroiwcuasJrI/pub?start=false&loop=false&delayms=3000&slide=id.g7b9afdb0e7_0_9
+#http://nthucad.cs.nthu.edu.tw/~yyliu/personal/nou/04ds/dijkstra.html
