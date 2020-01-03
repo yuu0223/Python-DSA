@@ -22,6 +22,12 @@
       * Dijkstra - O( |E|+|V|log|V| )
       
       * Kruskal - O( |E|log|V| )
+      
+## 使用方法
+
+      * Dijkstra - Breadth-First Search
+      
+      * Kruskal - Minimum Spanning Tree
 
 ## Reference
 * [維基百科 - Dijkstra](https://zh.wikipedia.org/wiki/%E6%88%B4%E5%85%8B%E6%96%AF%E7%89%B9%E6%8B%89%E7%AE%97%E6%B3%95)
