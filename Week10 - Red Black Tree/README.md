@@ -16,5 +16,8 @@
 
       (5.) 從任一節點到其每個葉子的所有簡單路徑都包含相同數目的黑色節點。
 
-## 
- 
+![rbt](https://github.com/yuu0223/code-learning/blob/master/image/rbt.png)
+
+## Reference
+* [維基百科 - 紅黑樹](https://zh.wikipedia.org/wiki/%E7%BA%A2%E9%BB%91%E6%A0%91)
+* [Red Black Tree：Intro](https://alrightchiu.github.io/SecondRound/red-black-tree-introjian-jie.html)
