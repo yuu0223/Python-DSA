@@ -5,11 +5,14 @@
 * 旨在尋找圖（由節點和路徑組成的）中兩結點之間的最短路徑。
 
 ![sp-1](https://github.com/yuu0223/code-learning/blob/master/image/sp-1.png)
+
 ![sp-2](https://github.com/yuu0223/code-learning/blob/master/image/sp-2.png)
 
 ## Shortest Path應用 - Dijkstra演算法
 
 * Dijkstra演算法使用了BFS(廣度優先搜尋)解決賦權有向圖的單源Shortest Path(最短路徑問題)。
+
+* 這個演算法是通過為每個頂點 v 保留目前為止所找到的從s到v的最短路徑來工作的。
 
 ## 時間複雜度
 
