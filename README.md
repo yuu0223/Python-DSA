@@ -25,3 +25,6 @@
 * [**Week10：Red Black Tree**](https://github.com/yuu0223/code-learning/tree/master/Week10%20-%20Red%20Black%20Tree)
 * [**Week11：Hash Table**](https://github.com/yuu0223/code-learning/tree/master/Week11%20-%20Hash%20Table)
 * [**Week12：Breadth-First Search**](https://github.com/yuu0223/code-learning/tree/master/Week12%20-%20Breadth-First%20Search)
+* [**Week13：Depth-First Search**](https://github.com/yuu0223/code-learning/tree/master/Week13%20-%20Depth-First%20Search)
+* [**Week14：Minimum Spanning Tree**](https://github.com/yuu0223/code-learning/tree/master/Week14%20-%20Minimum%20Spanning%20Tree)
+* [**Week15：Shortest Path**](https://github.com/yuu0223/code-learning/tree/master/Week15%20-%20Shortest%20Path)
