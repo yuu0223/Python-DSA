@@ -59,3 +59,5 @@ class MyLinkedList:
 # obj.addAtTail(val)
 # obj.addAtIndex(index,val)
 # obj.deleteAtIndex(index)
+
+#reference:https://www.runoob.com/python/python-lists.html
