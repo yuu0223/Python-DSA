@@ -1,4 +1,7 @@
 # 108-1 Data Structure and Algorithm(DSA)
+
+這是有關我這學期(108-1)資料結構與演算法這門課的學習歷程～還有許多不足的地方，還在慢慢學習當中！：）
+
 # About Me
 * Name：陳品伃
 * Birth：1999.05.27
