@@ -17,7 +17,7 @@
  
       (6.) 反覆進行以上步驟即可排序完成
       
-   ! [merge sort](https://github.com/yuu0223/code-learning/blob/master/image/merge%20sort%201.png)
+   ![merge sort](https://github.com/yuu0223/code-learning/blob/master/image/merge%20sort%201.png)
     
   
 ## **參考資料**
