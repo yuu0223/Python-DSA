@@ -2,7 +2,7 @@
 
 ## About MST
 
-* 最小生成樹是一副連通加權無向圖中一棵權值最小的生成樹。一個連通圖可能有多個生成樹。當圖中的邊具有權值時，總會有一個生成樹的邊的權值之和小於或者等於其它生成樹的邊的權值之和。廣義上而言，對於非連通無向圖來說，它的每一連通分量同樣有最小生成樹，它們的並被稱為最小生成森林。
+* 最小生成樹是一副連通加權無向圖中一棵權值最小的生成樹。一個連通圖可能有多個生成樹。廣義上而言，對於非連通無向圖來說，它的每一連通分量同樣有最小生成樹，它們的並被稱為最小生成森林。
 
 ![mst](https://github.com/yuu0223/code-learning/blob/master/image/mst.png)
 
@@ -21,3 +21,12 @@
       (4.) 重複3，直至圖G中所有的節點都在同一個連通分量中
 
 ![kruskal](https://github.com/yuu0223/code-learning/blob/master/image/mst-kruskal.gif)
+
+## 時間複雜度
+
+* Kruskal時間複雜度：ElogE
+
+## Reference
+* [維基百科 - 最小生成樹](https://zh.wikipedia.org/wiki/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91)
+* [維基百科 - Kruskal演算法](https://zh.wikipedia.org/wiki/%E5%85%8B%E9%B2%81%E6%96%AF%E5%85%8B%E5%B0%94%E6%BC%94%E7%AE%97%E6%B3%95)
+* [Minimum Spanning Tree：Intro](http://alrightchiu.github.io/SecondRound/minimum-spanning-treeintrojian-jie.html)
