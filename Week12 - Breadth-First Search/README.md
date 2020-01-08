@@ -14,3 +14,4 @@
 
       (4.) 重複步驟2、3直至所有節點都在確定的list中
 
+![bfs](https://github.com/yuu0223/code-learning/blob/master/image/bfs-ex.png)
