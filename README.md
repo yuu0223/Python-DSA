@@ -7,6 +7,7 @@
 * contact：pennychen1999@icloud.com
 
 # Content
+* **Week1：中秋節放假**
 * [**Week2：Linked-List**](https://github.com/yuu0223/code-learning/tree/master/Week2%20-%20Linked%20List)
   * 用Node方法：[Leetcode - 707. Design Linked List by node](https://github.com/yuu0223/code-learning/blob/master/Week2%20-%20Linked%20List/707.%20Design%20Linked%20List%20by%20node.py)
   * 用List方法：[Leetcode - 707. Design Linked List by list](https://github.com/yuu0223/code-learning/blob/master/Week2%20-%20Linked%20List/707.%20Design%20Linked%20List%20by%20list.py)
@@ -17,6 +18,7 @@
   * [HW1 - Quick Sort](https://github.com/yuu0223/code-learning/tree/master/HW1%20-%20Quick%20Sort)
   * Leetcode - 147. Insertion Sort List
   * [Leetcode - 645. Set Mismatch](https://github.com/yuu0223/code-learning/blob/master/Week4%20-%20Insertion%20sort%20%26%20Quick%20sort/645.%20Set%20Mismatch.py)
+* **Week5：國慶日彈性放假**
 * [**Week6：Heap Sort**](https://github.com/yuu0223/code-learning/tree/master/Week6%20-%20Heap%20Sort)
 * [**Week7：Merge Sort**](https://github.com/yuu0223/code-learning/tree/master/Week7%20-%20Merge%20Sort)
   * [HW2 - Heap Sort & Merge Sort](https://github.com/yuu0223/code-learning/tree/master/HW2%20-%20Heap%20Sort%20%26%20Merge%20Sort)
@@ -32,3 +34,6 @@
 * [**Week14：Minimum Spanning Tree**](https://github.com/yuu0223/code-learning/tree/master/Week14%20-%20Minimum%20Spanning%20Tree)
 * [**Week15：Shortest Path**](https://github.com/yuu0223/code-learning/tree/master/Week15%20-%20Shortest%20Path)
   * [HW6 - Dijkstra & Kruskal](https://github.com/yuu0223/code-learning/tree/master/HW6)
+* **Week16：OverView**
+* **Week17：期末考筆試**
+* **Week18：學期結束～回家投票**
