@@ -15,3 +15,7 @@
       (4.) 重複步驟2、3直至所有節點都在確定的list中
 
 ![bfs](https://github.com/yuu0223/code-learning/blob/master/image/bfs-ex.png)
+
+## Reference
+* [Graph: Breadth-First Search(BFS，廣度優先搜尋)](https://alrightchiu.github.io/SecondRound/graph-breadth-first-searchbfsguang-du-you-xian-sou-xun.html)
+* [維基百科 - 廣度優先搜尋](https://zh.wikipedia.org/wiki/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2)
